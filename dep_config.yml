@@ -1,0 +1,10 @@
+min_request: 100
+max_request: 1000
+
+max_limit: 80
+
+min_latency: 20
+max_latency: 80
+
+n_nodes: 5
+n_edges: 20

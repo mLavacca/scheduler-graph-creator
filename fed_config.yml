@@ -1,0 +1,26 @@
+central_amount: 2000
+
+central_minR: 200
+central_maxR: 1000
+
+central_minL: 200
+central_maxL: 1500
+
+central_cost: 0
+
+minR: 0
+minL: 0
+
+max_amount: 3000
+min_amount: 1000
+
+min_cost: 0.4
+max_cost: 1
+
+min_latency: 4
+max_latency: 15
+
+min_latency_cost: 10
+max_latency_cost: 100
+
+n_nodes: 999
